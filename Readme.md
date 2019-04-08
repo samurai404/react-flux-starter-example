@@ -1,4 +1,5 @@
-##installing
+## Installing
+
 -1- generate package.json file
 ````
 npm init -y
